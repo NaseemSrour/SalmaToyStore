@@ -1,0 +1,43 @@
+/* Ensure items on category pages are in a grid layout */
+.menu-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive grid */
+    gap: 20px; /* Space between grid items */
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-item {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #fff;
+    transition: transform 0.2s ease; /* Animation on hover */
+}
+
+.menu-item:hover {
+    transform: scale(1.05); /* Slightly enlarge the item on hover */
+}
+
+.item-image-large {
+    width: 100%;
+    height: auto;
+}
+
+.item-details {
+    padding: 10px;
+    background-color: #f7f7f7;
+}
+
+.item-name {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.item-price {
+    color: #666;
+    font-size: 16px;
+    margin-top: 5px;
+    display: block;
+}
