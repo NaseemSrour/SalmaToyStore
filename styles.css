@@ -3,7 +3,6 @@
     color: white;
     padding: 20px;
 }
-
 .header h1 {
     margin: 0;
     font-size: 24px;
@@ -11,7 +10,7 @@
 .header {
     padding: 40px 0;
     text-align: center;
-	color: black;
+	color: #11c4f8;
     background-image: url('images/logo-background.jpg'); /* Path to your logo image */
     background-size: contain; /* Ensure the logo fits inside the header */
     background-repeat: no-repeat; /* Prevent the background from repeating */
