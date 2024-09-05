@@ -1,4 +1,5 @@
 emkn el ratio hu l mohem:
 
+category img size: W 331 x 270 H
 item thumbnail size: W 483 x H 445
 detailed item size: 1078 x 1063
