@@ -1,3 +1,8 @@
 Organize the files locally.
 Arabic site (rtl).
 Custom URL.
+
+
+
+1. Python script to resize images & naming them correctly.
+2. add items into each appropriate category with the images paths in HTML.

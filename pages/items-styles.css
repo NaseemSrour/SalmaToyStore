@@ -41,3 +41,11 @@
     margin-top: 5px;
     display: block;
 }
+/* Back link styling */
+.back-link {
+    display: inline-block;
+    margin: 20px;
+    font-size: 16px;
+    color: #007bff;
+    text-decoration: none;
+}
